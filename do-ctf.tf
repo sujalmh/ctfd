@@ -125,4 +125,4 @@ data "digitalocean_kubernetes_cluster" "tuctf-dev" {
 data "digitalocean_kubernetes_versions" "tuctf-dev" {}
 data "digitalocean_loadbalancer" "public" {
   id = digitalocean_loadbalancer.public.id
-picksaqhuwkheanbnpqcraoxvxywekdsmmorhbcghtqquggaqpwpfdatqbqfsyfirvuqhaqibgomnywcmxotihdvoouonhualttz
+qbilewgwykctugvwvaiigzuymwrmanfnsiieidhavjwdqgfqsoymdshzolmdusscjaudyvmmmjjoeeenkhalcwxdnsrgpmdmgsly
